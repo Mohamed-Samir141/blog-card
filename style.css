@@ -26,6 +26,7 @@ body{
 
 
 img{
+    padding-inline-end:0px;
     border-radius:10px;
     margin-block:20px;
 }
