@@ -17,7 +17,7 @@ body{
 }
 .blog-card{
     background-color:#fff;
-    inline-size:400px;
+    inline-size:377px;
     max-inline-size:100%;
     border:1.5px solid black;
     border-radius:15px;
@@ -29,6 +29,7 @@ img{
     padding-inline-end:0px;
     border-radius:10px;
     margin-block:20px;
+    
 }
 
 h3{
